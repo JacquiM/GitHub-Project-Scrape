@@ -1,0 +1,2 @@
+# GitHub-Project-Scrape
+Since the release of the 'New' GitHub Projects, the API (which uses graphQL) is not quite ready to use nor is it easy to use. More 'traditional' approaches to getting data like through the use of RPA is also near impossible to get working due to the way that the GitHub projects have been developed. Now because of the underlying architecture of GitHub and GitHub projects, most of the data you need is made available via the front-end. Here's how to get it using Web Scraping libraries (like beautifulsoup) and Python
